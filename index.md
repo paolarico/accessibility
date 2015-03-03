@@ -33,3 +33,17 @@ If you have any questions about accessiblity, 508, or would like help, please re
   * The full section 508 standards
 * [Web Aim's 10 easy accessibility tips](http://webaim.org/blog/10-easy-accessibility-tips/)
 * [Tips for creating Accessible SVGs](http://www.sitepoint.com/tips-accessible-svg/)
+* Node-based CLI tester. Based on Chrome Accessibility Dev Tools. Could be an alternative to pa11y.
+  * https://github.com/addyosmani/a11y
+* https://github.com/Tanaguru/Contrast-Finder
+* https://github.com/bassjobsen/bootstrap-a11y-theme
+* https://github.com/dpersing/ada-a11y-intro
+* https://github.com/koenpunt/a11y-service (example: https://a11y-service.herokuapp.com/report/18f.gsa.gov)
+* https://github.com/williamv/a11y_experience
+* Erlang implementation of WCAG 2.0 A checker
+  * https://github.com/antiapuentes/a11y-checker
+* "A good start on web accessibility for you."
+  * https://github.com/davidakennedy/a11y.me 
+* https://github.com/kevee/drupal-a11y-testing
+* "A deliberately inaccessible web application designed to teach web application accessibility lessons. Learn accessibility by doing."
+  * https://github.com/jazahn/A11yGoat 
