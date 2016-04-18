@@ -5,7 +5,7 @@ permalink: /headings/
 page_title: Headings
 ---
 
-When laying out a page, headings provide a sementaic way to layout sections of content. Heading elements are used by users of AT to navigate a page quickly and to understand the structure of a page. Also see [Landmarks](../landmarks/)
+When laying out a page, headings provide a semantic way to layout sections of content. Heading elements are used by users of AT to navigate a page quickly and to understand the structure of a page. Also see [Landmarks](../landmarks/)
 
 When using headings, it is best practice to reserve `<h1>` for the name of the site, `<h2>` for the page title, and the rest for sections on the page. Heading attributes should be used in order, and "lower" elements should never be nested in higher attributes. i.e. 
 
